@@ -1,0 +1,11 @@
+trained_gmf.h5
+trained_mlp.h5
+ml-1m.zip
+trained_neumf.h5
+trained_rnn.h5
+.ipynb*
+.DS_STORE
+model_nf8_layers64_32_16_regmf0.01_reg0.01_0.01_0.01_0.01.h5
+model_nf8_layers64_32_16_regmf0.01_reg0.005_0.005_0.005_0.005.h5
+model_nf16_layers64_32_16_regmf0.01_reg0.01_0.01_0.01_0.01.h5
+model_nf16_layers64_32_16_regmf0.01_reg0.005_0.005_0.005_0.005.h5

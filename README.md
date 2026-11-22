@@ -50,6 +50,4 @@ The repository includes MovieLens-related movie, rating, and tag data, including
 
 This repository contains exploratory notebooks. The exact models, evaluation metrics, and results are documented in the corresponding notebooks.
 
-## Author
 
-[Kavish718](https://github.com/Kavish718)
